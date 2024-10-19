@@ -8,13 +8,13 @@ dataframe.head()
 
 
 # Snowflake connection details
-user = 'BreezyDataAnalyst'
-password = 'joxxed-zinsyg-Casje4'
-account = 'uqviiry-ir83823'
+user = 'user'
+password = 'password'
+account = 'account_name'
 warehouse = 'your_warehouse'
-database = 'SUPERMARKET'
-schema = 'PUBLIC'
-role = 'ACCOUNTADMIN'
+database = 'database'
+schema = 'schema'
+role = 'role'
 
 # %%
 #Cleaning data
